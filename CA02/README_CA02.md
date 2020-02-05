@@ -11,4 +11,4 @@ sklearn Naive Bayes provides three alternatives for model training. In this exer
 ### Step 4 - Accuracy Score
 Next, we compare the accuracy score for predicted labels. Accuracy score is just percentage of correct predictions. Again here, sklearn provides neat implementation for accuracy score calculation.
 ## Conclusion
-The Naive Bayes considers the independence in features. For exampleit assumes the occurrence of one word/ feature is independent of other. But in real life it may not be so ( occurrence of morningis high after Good). 
+The Naive Bayes considers the independence in features. For exampleit assumes the occurrence of one word/ feature is independent of other. But in real life it may not be so ( occurrence of morning is high after Good). 
