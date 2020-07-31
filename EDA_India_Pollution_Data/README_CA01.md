@@ -16,7 +16,7 @@ Now, read the data into pandas DataFrame using read_csv() and display the first 
 rows with head(). 
 
 ## Instruction
-### Cleansing the dataset
+### Cleaning the dataset
 In this step, we need to clean the data by adding and dropping the needed and unwanted
 data respectively. From the above dataset,
 ### Dropping of less valued columns:
