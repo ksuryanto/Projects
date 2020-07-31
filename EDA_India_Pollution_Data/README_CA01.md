@@ -1,6 +1,3 @@
-# BSAN6070 - CA01
-Exploratory Data Analysis – India Pollution Data
-
 ## Background
 This data is released by the Ministry of Environment and Forests and Central Pollution
 Control Board of India under the National Data Sharing and Accessibility Policy
