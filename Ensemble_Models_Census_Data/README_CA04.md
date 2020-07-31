@@ -1,7 +1,6 @@
 # CA04 – Ensemble Models
 ## 1. Data Source and Contents
-Same as CA03
-## 2. Finding Optimal Value of a key Hyper-parameter
+The dataset is obtained from the Census Bureau and represents salaries of people along with seven demographic variables. The following is a description of our dataset: • Number of target classes: 2 ('>50K' and '<=50K') [ Labels: 1, 0 ] • Number of attributes (Columns): 7 • Number of instances (Rows): 48,842## 2. Finding Optimal Value of a key Hyper-parameter
 For Ensemble Models, one of the key hyper-parameter is number of “estimators”.
 ## 3. Building a Random Forest Model
 Using Notebook, and the same data source from CA03, train a Random Forest Model.
